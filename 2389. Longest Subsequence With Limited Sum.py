@@ -35,3 +35,25 @@ def answerQueries( nums, queries):
 
         return answer
 /----------------------두번째 시도-------------------------/
+class Solution(object):
+    
+
+    def answerQueries(self, nums, queries):
+            answer = []
+            nums.sort()
+            n = len(nums)
+            m = len(queries)
+            for i in range(m):
+                count = -1
+                check = queries[i]
+                for j in range(n):
+                    if check < 0:
+                        break
+                    else :
+                        check -= nums[j]
+                        count +=1
+                if check >= 0 and count == n -1:
+                    count += 1
+                answer.append(count)
+            
+            return answer
