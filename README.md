@@ -12,3 +12,11 @@
     - 12/28(수) : leetcode, **2465. Number of Distinct Averages,** link : [Number of Distinct Averages - LeetCode](https://leetcode.com/problems/number-of-distinct-averages/)
     - 12/29(목) : 백준, 2460 지능형 기차 2, link : [https://www.acmicpc.net/problem/2460](https://www.acmicpc.net/problem/2460)
     - 12/30(금) :  leetcode, 2389 **Longest Subsequence With Limited Sum,** link : [Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum/)
+- 3주차
+    - 1/2(월) : leetcode, **2160. Minimum Sum of Four Digit Number After Splitting Digits**, 
+    link : [https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/)
+    - 1/3(화) : 프로그래머스, 숫자 문자열과 영단어, 
+    link : [https://school.programmers.co.kr/learn/courses/30/lessons/81301](https://school.programmers.co.kr/learn/courses/30/lessons/81301)
+    - 1/4(수) :
+    - 1/5(목) : 백준, 약수, link : [1037번: 약수 (acmicpc.net)](https://www.acmicpc.net/problem/1037)
+    - 1/6(금) : leetcode, 94. [https://leetcode.com/problems/binary-tree-inorder-traversal/](https://leetcode.com/problems/binary-tree-inorder-traversal/)
