@@ -17,13 +17,13 @@
     link : [https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/)
     - 1/3(화) : 프로그래머스, 숫자 문자열과 영단어, 
     link : [https://school.programmers.co.kr/learn/courses/30/lessons/81301](https://school.programmers.co.kr/learn/courses/30/lessons/81301)
-    - 1/4(수) :
+    - 1/4(수) : leetcode, 9. https://leetcode.com/problems/palindrome-number/
     - 1/5(목) : 백준, 약수, link : [1037번: 약수 (acmicpc.net)](https://www.acmicpc.net/problem/1037)
     - 1/6(금) : leetcode, 94. [https://leetcode.com/problems/binary-tree-inorder-traversal/](https://leetcode.com/problems/binary-tree-inorder-traversal/)
 - 4주차
     - 01/09(월) : leetcode, 2255, [https://leetcode.com/problems/count-prefixes-of-a-given-string/](https://leetcode.com/problems/count-prefixes-of-a-given-string/)
     - 01/10(화) : 프로그래머스, 마법의 엘레베이터,[코딩테스트 연습 - 마법의 엘리베이터 | 프로그래머스 스쿨 (programmers.co.kr)](https://school.programmers.co.kr/learn/courses/30/lessons/148653)
-    - 01/11(수) :
+    - 01/11(수) : leetcode, https://leetcode.com/problems/two-sum/
     - 01/12(목) : 백준, 윷놀이, link : [https://www.acmicpc.net/problem/2490](https://www.acmicpc.net/problem/2490)
     - 01/13(금) : leetcode, **832. Flipping an Image**
     link : [https://leetcode.com/problems/flipping-an-image/](https://leetcode.com/problems/flipping-an-image/)
