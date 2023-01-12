@@ -27,3 +27,7 @@
     - 01/12(목) : 백준, 윷놀이, link : [https://www.acmicpc.net/problem/2490](https://www.acmicpc.net/problem/2490)
     - 01/13(금) : leetcode, **832. Flipping an Image**
     link : [https://leetcode.com/problems/flipping-an-image/](https://leetcode.com/problems/flipping-an-image/)
+
+- bonus problem
+    택배상자 https://school.programmers.co.kr/learn/courses/30/lessons/131704
+    문자열 압축 https://school.programmers.co.kr/learn/courses/30/lessons/60057
