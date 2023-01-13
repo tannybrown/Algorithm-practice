@@ -14,3 +14,13 @@ class Solution(object):
                 return [i[1],i[2]]
         
 #두번째 시도
+class Solution(object):
+    def twoSum(self, nums, target):
+        for i in range(len(nums)):
+            temp = target - nums[i]
+            j = i+1
+            while j < len(nums):
+                if temp == nums[j]:
+                    return [i,j]
+                j+=1
+        
