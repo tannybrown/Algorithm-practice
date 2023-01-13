@@ -29,5 +29,5 @@
     link : [https://leetcode.com/problems/flipping-an-image/](https://leetcode.com/problems/flipping-an-image/)
 
 - bonus problem
-    택배상자 https://school.programmers.co.kr/learn/courses/30/lessons/131704
-    문자열 압축 https://school.programmers.co.kr/learn/courses/30/lessons/60057
+    ###### 택배상자 https://school.programmers.co.kr/learn/courses/30/lessons/131704
+    ###### 문자열 압축 https://school.programmers.co.kr/learn/courses/30/lessons/60057
