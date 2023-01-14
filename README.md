@@ -31,3 +31,10 @@
 - bonus problem
     ###### 택배상자 https://school.programmers.co.kr/learn/courses/30/lessons/131704
     ###### 문자열 압축 https://school.programmers.co.kr/learn/courses/30/lessons/60057
+    
+- 5주차
+    - 01/16(월) : leetcode,
+    - 01/17(화) : 프로그래머스,
+    - 01/18(수) : leetcode,
+    - 01/19(목) : 백준,
+    - 01/20(금) : leetcode,
