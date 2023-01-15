@@ -33,8 +33,9 @@
     ###### 문자열 압축 https://school.programmers.co.kr/learn/courses/30/lessons/60057
     
 - 5주차
-    - 01/16(월) : leetcode,
-    - 01/17(화) : 프로그래머스,
-    - 01/18(수) : leetcode,
-    - 01/19(목) : 백준,
-    - 01/20(금) : leetcode,
+- 01/16(월) : leetcode,
+- 01/17(화) : 프로그래머스, 자연수 뒤집어 배열로 만들기, [https://school.programmers.co.kr/learn/courses/30/lessons/12932](https://school.programmers.co.kr/learn/courses/30/lessons/12932)
+- 01/18(수) : leetcode, **1470. Shuffle the Array** 
+link : [https://leetcode.com/problems/shuffle-the-array/](https://leetcode.com/problems/shuffle-the-array/)
+- 01/19(목) : 백준,
+- 01/20(금) : leetcode,**914. X of a Kind in a Deck of Cards,**[X of a Kind in a Deck of Cards - LeetCode](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/)
