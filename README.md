@@ -39,3 +39,5 @@
 link : [https://leetcode.com/problems/shuffle-the-array/](https://leetcode.com/problems/shuffle-the-array/)
 - 01/19(목) : 백준, [https://www.acmicpc.net/problem/1949](https://www.acmicpc.net/problem/1949)
 - 01/20(금) : leetcode,**914. X of a Kind in a Deck of Cards,**[X of a Kind in a Deck of Cards - LeetCode](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/)
+- bonus problem
+-   ###### 개인정보  https://school.programmers.co.kr/learn/courses/30/lessons/150370
