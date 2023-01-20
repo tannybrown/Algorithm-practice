@@ -41,3 +41,9 @@ link : [https://leetcode.com/problems/shuffle-the-array/](https://leetcode.com/p
 - 01/20(금) : leetcode,**914. X of a Kind in a Deck of Cards,**[X of a Kind in a Deck of Cards - LeetCode](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/)
 - bonus problem
    ###### 개인정보 수집 유효기간  https://school.programmers.co.kr/learn/courses/30/lessons/150370
+- 6주차
+    - 01/23(월) :
+    - 01/24(화) :
+    - 01/25(수) : leetcode, [Remove One Element to Make the Array Strictly Increasing - LeetCode](https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing/)
+    - 01/26(목) :
+    - 01/27(금) :
