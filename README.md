@@ -42,8 +42,11 @@
 - bonus problem
    ###### 개인정보 수집 유효기간  https://school.programmers.co.kr/learn/courses/30/lessons/150370
 - 6주차
-    - 01/23(월) :
+    - 01/23(월) : leetcode, **118. Pascal's Triangle**
+    link: [https://leetcode.com/problems/positions-of-large-groups/](https://leetcode.com/problems/positions-of-large-groups/)
     - 01/24(화) :
-    - 01/25(수) : leetcode, [Remove One Element to Make the Array Strictly Increasing - LeetCode](https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing/)
+    - 01/25(수) : leetcode, **1909. Remove One Element to Make the Array Strictly Increasing**
+    link : [Remove One Element to Make the Array Strictly Increasing - LeetCode](https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing/)
     - 01/26(목) :
-    - 01/27(금) :
+    - 01/27(금) : leetcode, **617. Merge Two Binary Trees**
+    link: [https://leetcode.com/problems/merge-two-binary-trees/](https://leetcode.com/problems/merge-two-binary-trees/)
