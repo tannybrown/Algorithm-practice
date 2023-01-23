@@ -47,6 +47,6 @@
     - 01/24(화) :
     - 01/25(수) : leetcode, **1909. Remove One Element to Make the Array Strictly Increasing**
     link : [Remove One Element to Make the Array Strictly Increasing - LeetCode](https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing/)
-    - 01/26(목) :
+    - 01/26(목) : 백준, https://www.acmicpc.net/problem/1012
     - 01/27(금) : leetcode, **617. Merge Two Binary Trees**
     link: [https://leetcode.com/problems/merge-two-binary-trees/](https://leetcode.com/problems/merge-two-binary-trees/)
