@@ -50,3 +50,9 @@
     - 01/26(목) : 백준, https://www.acmicpc.net/problem/1012
     - 01/27(금) : leetcode, **617. Merge Two Binary Trees**
     link: [https://leetcode.com/problems/merge-two-binary-trees/](https://leetcode.com/problems/merge-two-binary-trees/)
+- 7주차
+    - 01/30(월) : 백준 18258.큐2, [https://www.acmicpc.net/problem/18258](https://www.acmicpc.net/problem/18258)
+    - 01/31(화) : 백준 [2800번: 괄호 제거 (acmicpc.net)](https://www.acmicpc.net/problem/2800)
+    - 02/01(수) : 백준 1158. 요세푸스 문제
+    link : [https://www.acmicpc.net/problem/1158](https://www.acmicpc.net/problem/1158)
+    - 02/02(목) :
