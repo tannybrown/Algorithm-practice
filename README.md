@@ -55,4 +55,4 @@
     - 01/31(화) : 백준 [2800번: 괄호 제거 (acmicpc.net)](https://www.acmicpc.net/problem/2800)
     - 02/01(수) : 백준 1158. 요세푸스 문제
     link : [https://www.acmicpc.net/problem/1158](https://www.acmicpc.net/problem/1158)
-    - 02/02(목) :
+    - 02/02(목) : 백준 1874. 스택수열, https://www.acmicpc.net/problem/1874
