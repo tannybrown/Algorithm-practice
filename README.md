@@ -56,3 +56,12 @@
     - 02/01(수) : 백준 1158. 요세푸스 문제
     link : [https://www.acmicpc.net/problem/1158](https://www.acmicpc.net/problem/1158)
     - 02/02(목) : 백준 1874. 스택수열, https://www.acmicpc.net/problem/1874
+    
+프로그래머스 level 2
+- 8주차
+    - 02/13(월) : 최댓값과 최솟값 https://school.programmers.co.kr/learn/courses/30/lessons/12939
+    - 02/14(화) : JadenCase 문자열 만들기 https://school.programmers.co.kr/learn/courses/30/lessons/12951
+    - 02/15(수) : 최솟값 만들기 https://school.programmers.co.kr/learn/courses/30/lessons/12941
+    - 02/16(목) : 올바른 괄호 https://school.programmers.co.kr/learn/courses/30/lessons/12909
+    - 02/17(금) : 이진 변환 반복하기 https://school.programmers.co.kr/learn/courses/30/lessons/70129
+
