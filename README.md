@@ -65,3 +65,10 @@
     - 02/16(목) : 올바른 괄호 https://school.programmers.co.kr/learn/courses/30/lessons/12909
     - 02/17(금) : 이진 변환 반복하기 https://school.programmers.co.kr/learn/courses/30/lessons/70129
 
+- 9주차
+    - 02/13(월) : 숫자의 표현 https://school.programmers.co.kr/learn/courses/30/lessons/12924
+    - 02/14(화) : 피보나치 수 https://school.programmers.co.kr/learn/courses/30/lessons/12945
+    - 02/15(수) : 다음 큰 숫자 https://school.programmers.co.kr/learn/courses/30/lessons/12911
+    - 02/16(목) : 짝지어 제거하기 https://school.programmers.co.kr/learn/courses/30/lessons/12973
+    - 02/17(금) : 영어 끝말잇기 https://school.programmers.co.kr/learn/courses/30/lessons/12981
+
