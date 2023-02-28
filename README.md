@@ -66,15 +66,15 @@
     - 02/17(금) : 이진 변환 반복하기 https://school.programmers.co.kr/learn/courses/30/lessons/70129
 
 - 9주차
-    - 02/13(월) : 숫자의 표현 https://school.programmers.co.kr/learn/courses/30/lessons/12924
-    - 02/14(화) : 피보나치 수 https://school.programmers.co.kr/learn/courses/30/lessons/12945
-    - 02/15(수) : 다음 큰 숫자 https://school.programmers.co.kr/learn/courses/30/lessons/12911
-    - 02/16(목) : 짝지어 제거하기 https://school.programmers.co.kr/learn/courses/30/lessons/12973
-    - 02/17(금) : 영어 끝말잇기 https://school.programmers.co.kr/learn/courses/30/lessons/12981
+    - 02/20(월) : 숫자의 표현 https://school.programmers.co.kr/learn/courses/30/lessons/12924
+    - 02/21(화) : 피보나치 수 https://school.programmers.co.kr/learn/courses/30/lessons/12945
+    - 02/22(수) : 다음 큰 숫자 https://school.programmers.co.kr/learn/courses/30/lessons/12911
+    - 02/23(목) : 짝지어 제거하기 https://school.programmers.co.kr/learn/courses/30/lessons/12973
+    - 02/24(금) : 영어 끝말잇기 https://school.programmers.co.kr/learn/courses/30/lessons/12981
 
 - 10주차
-    - 02/13(월) : 카펫 https://school.programmers.co.kr/learn/courses/30/lessons/42842
-    - 02/14(화) : 구명보트 https://school.programmers.co.kr/learn/courses/30/lessons/42885
-    - 02/15(수) : 예상 대진표 https://school.programmers.co.kr/learn/courses/30/lessons/12985
-    - 02/16(목) : 점프와 순간 이동 https://school.programmers.co.kr/learn/courses/30/lessons/12980
-    - 02/17(금) : N개의 최소 공배수 https://school.programmers.co.kr/learn/courses/30/lessons/12953
+    - 02/27(월) : 카펫 https://school.programmers.co.kr/learn/courses/30/lessons/42842
+    - 02/28(화) : 구명보트 https://school.programmers.co.kr/learn/courses/30/lessons/42885
+    - 03/01(수) : 예상 대진표 https://school.programmers.co.kr/learn/courses/30/lessons/12985
+    - 03/02(목) : 점프와 순간 이동 https://school.programmers.co.kr/learn/courses/30/lessons/12980
+    - 03/03(금) : N개의 최소 공배수 https://school.programmers.co.kr/learn/courses/30/lessons/12953
