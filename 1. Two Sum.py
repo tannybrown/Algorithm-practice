@@ -13,6 +13,7 @@ class Solution(object):
             if i[0] == target:
                 return [i[1],i[2]]
         
+        
 #두번째 시도
 class Solution(object):
     def twoSum(self, nums, target):
