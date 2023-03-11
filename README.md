@@ -85,3 +85,11 @@
     - 03/08(수) : 괄호 회전하기 https://school.programmers.co.kr/learn/courses/30/lessons/76502
     - 03/09(목) : [1차] 캐시 https://school.programmers.co.kr/learn/courses/30/lessons/17680
     - 03/10(금) : 행렬의 곱셈 https://school.programmers.co.kr/learn/courses/30/lessons/12949
+
+프로그래머스 고득점 kit(유형별)
+    해시part
+    - 03/13(월) : 폰켓몬 https://school.programmers.co.kr/learn/courses/30/lessons/1845
+    - 03/14(화) : 완주하지 못한 선수 https://school.programmers.co.kr/learn/courses/30/lessons/42576
+    - 03/15(수) : 전화번호 목록 https://school.programmers.co.kr/learn/courses/30/lessons/42577
+    - 03/16(목) : 위장 https://school.programmers.co.kr/learn/courses/30/lessons/42578
+    - 03/17(금) : 베스트 앨범 https://school.programmers.co.kr/learn/courses/30/lessons/42579    
