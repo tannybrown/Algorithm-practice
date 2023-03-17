@@ -96,3 +96,9 @@
     - 03/17(금) : 베스트 앨범 https://school.programmers.co.kr/learn/courses/30/lessons/42579    
     
 - 13주차   
+    - 03/20(월) : 같은 숫자는 싫어 https://school.programmers.co.kr/learn/courses/30/lessons/12906
+    - 03/21(화) : 기능개발 https://school.programmers.co.kr/learn/courses/30/lessons/42586
+    - 03/22(수) : 프린터 https://school.programmers.co.kr/learn/courses/30/lessons/42587
+    - 03/23(목) : 다리를 지나는 트럭 https://school.programmers.co.kr/learn/courses/30/lessons/42583
+    - 03/24(금) : 주식가격 https://school.programmers.co.kr/learn/courses/30/lessons/42584
+    
