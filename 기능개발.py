@@ -9,9 +9,8 @@ def solution(progresses, speeds):
     ans = []
     
     for i in range(len(progresses)) :
-        temp = (100 - progresses[i])//speeds[i]
-        if ((100 - progresses[i]) % speeds[i]) :
-            temp+= 1
+        temp = math.ceil((100 - progresses[i])/speeds[i])
+       
         if not stack :
             cur = temp
             stack += 1
