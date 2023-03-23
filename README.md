@@ -105,3 +105,10 @@
     - 03/23(목) : 다리를 지나는 트럭 https://school.programmers.co.kr/learn/courses/30/lessons/42583
     - 03/24(금) : 주식가격 https://school.programmers.co.kr/learn/courses/30/lessons/42584
     
+정렬 part + 힙 part
+-14주차
+    - 03/27(월) : K번째수 https://school.programmers.co.kr/learn/courses/30/lessons/42748
+    - 03/28(화) : 가장 큰 수 https://school.programmers.co.kr/learn/courses/30/lessons/42746
+    - 03/29(수) : 더 맵게 https://school.programmers.co.kr/learn/courses/30/lessons/42626
+    - 03/30(목) : 디스크 컨트롤러 https://school.programmers.co.kr/learn/courses/30/lessons/42627
+    - 03/31(금) : 이중우선순위큐 https://school.programmers.co.kr/learn/courses/30/lessons/42628
